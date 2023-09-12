@@ -1,6 +1,6 @@
 # marktext2
 
-An Electron application with Vue and TypeScript
+Refactoring [marktext](https://github.com/marktext/marktext)
 
 ## Recommended IDE Setup
 
